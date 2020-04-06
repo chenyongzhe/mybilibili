@@ -12,6 +12,6 @@
 ## 效果<br>
 <img src="https://chenyongzhe.github.io/bili1.png"  width="400" height="900"><br>
 ## 弹幕效果<br>
-<img src="https://chenyongzhe.github.io/bili2.png"  width="400" height="900"><br>
-  <img src="https://chenyongzhe.github.io/bili3.png"  width="400" height="900"><br>
-    <img src="https://chenyongzhe.github.io/bili4.png"  width="400" height="900"><br>
+<img src="https://chenyongzhe.github.io/bili2.png"  height="900"><br>
+  <img src="https://chenyongzhe.github.io/bili3.png"  height="900"><br>
+    <img src="https://chenyongzhe.github.io/bili4.png"   height="900"><br>
