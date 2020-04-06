@@ -10,8 +10,8 @@
  基于Dplayer + ajax+ springmvc  实现弹幕功能
   包含登录，注册，上传视频，留言，弹幕等功能
 ## 效果<br>
-<img src="https://chenyongzhe.github.io/bili1.png"  width="400" height="900"><br>
+<img src="https://chenyongzhe.github.io/bili1.png" ><br>
 ## 弹幕效果<br>
-<img src="https://chenyongzhe.github.io/bili2.png"  height="900"><br>
-  <img src="https://chenyongzhe.github.io/bili3.png"  height="900"><br>
-    <img src="https://chenyongzhe.github.io/bili4.png"   height="900"><br>
+<img src="https://chenyongzhe.github.io/bili2.png" ><br>
+  <img src="https://chenyongzhe.github.io/bili3.png"  ><br>
+    <img src="https://chenyongzhe.github.io/bili4.png"  ><br>
