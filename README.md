@@ -10,6 +10,7 @@
   <br>视频上传主意事项<br>
    <br>上传的文件要马上可以查找到需要将tomcat 的启动方式改为热启动并且project structrue选择的为bilibili::war exploded;<br>
   <br> 上传的保存路径需要修改 在：bilibili\src\main\java\com\sf\Maping\T.java 文件的904 和906行。<br> 改成你正确的bilibili\out\artifacts\bilibili_war_exploded\static\videolook和<br>bilibili\out\artifacts\bilibili_war_exploded\static\videolook\videolookimg\ 的路径。<br>
+  <br> 账号：admin <br>密码： 123321aaa
 
  
  
