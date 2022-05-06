@@ -1,9 +1,8 @@
 # mybilibili
 基于SSM框架高仿B站弹幕视频网站
 
-最新未失效静态文件链接：链接：链接：https://pan.baidu.com/s/1GttqAn-yBoXyC-1NSTV9Sg <br>
-提取码：vsfr <br>
-解压密码: bilibili
+最新未失效静态文件链接：链接：链接：https://pan.baidu.com/s/1_D5X301sjCER1iIk-PtMTQ <br>
+提取码：krzj
 
 <b>
 下载后解压放于webapp目录下，注意不要解压出两个static路径<br>
